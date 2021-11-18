@@ -2,11 +2,11 @@
 Customizable Responsive ERROR PAGES Made using **HTML** and **CSS**
 
 ## What's Included:
-- ERROR 400-Bad Request
-- ERROR 401-Invaild Credentials
-- ERROR 403-Unauthorized Access
-- ERROR 404-Page Not Found
-- ERROR 503-Service Unavailable
+- [ERROR 400] (https://github.com/zionashirwada/ErrorPages/blob/main/README.md#error-400-bad-request) - Bad Request 
+- [ERROR 401] (https://github.com/zionashirwada/ErrorPages/blob/main/README.md#error-401-invaild-credentials) - Invaild Credentials
+- [ERROR 403] (https://github.com/zionashirwada/ErrorPages/blob/main/README.md#error-403-unauthorized-access) - Unauthorized Access
+- [ERROR 404] (https://github.com/zionashirwada/ErrorPages/blob/main/README.md#error-404-page-not-found) - Page Not Found
+- [ERROR 503] (https://github.com/zionashirwada/ErrorPages/blob/main/README.md#error-503-service-unavailable) - Service Unavailable
 
 ## How to Edit the Homepage Button
 1.Open the required HTML file in a text Editor 
