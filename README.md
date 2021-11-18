@@ -13,9 +13,18 @@ Customizable Responsive ERROR PAGES Made using **HTML** and **CSS**
 2.Replace "https://github.com/zionashirwada" with your Home Page or a link
 
 ## Screenshot
+
  ### ERROR 400-Bad Request
- (https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/400.jpeg)
- 
+![This is an image](https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/400.jpeg)
+  ### ERROR 401-Invaild Credentials
+![This is an image](https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/401.jpeg)
+ ### ERROR 403-Unauthorized Access
+![This is an image](https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/403.jpeg)
+ ### ERROR 404-Page Not Found
+![This is an image](https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/404.jpeg)
+ ### ERROR 503-Service Unavailable
+![This is an image](https://github.com/zionashirwada/ErrorPages/blob/main/Screenshots/503.jpeg)
+
  
  
  
